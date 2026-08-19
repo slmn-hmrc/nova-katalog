@@ -1,0 +1,194 @@
+{
+  "store": "NovaStore",
+  "currency": "TL",
+  "categories": [
+    "Tümü",
+    "Elektronik",
+    "Giyim",
+    "Kitap",
+    "Kozmetik",
+    "Ev ve Yaşam"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Kablosuz Kulaklık",
+      "category": "Elektronik",
+      "price": 2499.90,
+      "stock": 35,
+      "rating": 4.6,
+      "image": "assets/images/kablosuz-kulaklik.png",
+      "description": "Aktif gürültü engelleme ve 30 saate varan pil ömrüyle gün boyu kesintisiz dinleme sunar. Hızlı şarj desteği sayesinde 10 dakikalık şarjla 3 saat kullanım sağlar.",
+      "specs": {
+        "Bağlantı": "Bluetooth 5.3",
+        "Pil ömrü": "30 saat",
+        "Ağırlık": "245 g"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Akıllı Saat",
+      "category": "Elektronik",
+      "price": 4750.00,
+      "stock": 12,
+      "rating": 4.4,
+      "image": "assets/images/akilli-saat.png",
+      "description": "Nabız, uyku ve adım takibini tek ekranda toplar. Suya dayanıklı gövdesiyle yüzme antrenmanlarında da kullanılabilir.",
+      "specs": {
+        "Ekran": "1.78\" AMOLED",
+        "Su geçirmezlik": "5 ATM",
+        "Pil ömrü": "14 gün"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Hoparlör",
+      "category": "Elektronik",
+      "price": 1299.50,
+      "stock": 8,
+      "rating": 4.2,
+      "image": "assets/images/bluetooth-hoparlor.png",
+      "description": "Kompakt gövdesine rağmen 20W çıkış gücü sunar. Taşınabilir tasarımı ve IPX7 su direnciyle açık hava kullanımına uygundur.",
+      "specs": {
+        "Çıkış gücü": "20 W",
+        "Su direnci": "IPX7",
+        "Pil ömrü": "12 saat"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Oversize Sweatshirt",
+      "category": "Giyim",
+      "price": 749.90,
+      "stock": 60,
+      "rating": 4.5,
+      "image": "assets/images/oversize-sweatshirt.png",
+      "description": "Yumuşak şardonlu iç yüzeyi ve salaş kesimiyle günlük kullanım için tasarlandı. %100 pamuklu kumaşı nefes almayı kolaylaştırır.",
+      "specs": {
+        "Kumaş": "%100 pamuk",
+        "Kesim": "Oversize",
+        "Yıkama": "30°C hassas"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Deri Ceket",
+      "category": "Giyim",
+      "price": 3899.00,
+      "stock": 5,
+      "rating": 4.7,
+      "image": "assets/images/deri-ceket.png",
+      "description": "Gerçek dana derisinden üretilen klasik biker kesim. Yıllar içinde kişiye özel bir patina kazanan doğal yüzeye sahiptir.",
+      "specs": {
+        "Malzeme": "Gerçek deri",
+        "Astar": "Polyester",
+        "Kesim": "Slim fit"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Koşu Ayakkabısı",
+      "category": "Giyim",
+      "price": 2150.00,
+      "stock": 24,
+      "rating": 4.3,
+      "image": "assets/images/kosu-ayakkabisi.png",
+      "description": "Hafif EVA taban ve nefes alan file üst yapı ile uzun mesafe koşularında ayağı serin tutar.",
+      "specs": {
+        "Taban": "EVA köpük",
+        "Ağırlık": "255 g",
+        "Kullanım": "Asfalt / parkur"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Veri Tabanı Tasarımı",
+      "category": "Kitap",
+      "price": 320.00,
+      "stock": 40,
+      "rating": 4.8,
+      "image": "assets/images/veri-tabani-tasarimi.png",
+      "description": "İlişkisel veri tabanı tasarımını normalizasyondan indeks stratejilerine kadar örneklerle anlatan başvuru kitabı.",
+      "specs": {
+        "Sayfa": "412",
+        "Basım": "3. baskı",
+        "Dil": "Türkçe"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Yazılım Mimarisi",
+      "category": "Kitap",
+      "price": 415.50,
+      "stock": 18,
+      "rating": 4.9,
+      "image": "assets/images/yazilim-mimarisi.png",
+      "description": "Katmanlı mimariden mikroservislere geçiş sürecini gerçek proje örnekleriyle ele alan kapsamlı bir kaynak.",
+      "specs": {
+        "Sayfa": "368",
+        "Basım": "2. baskı",
+        "Dil": "Türkçe"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Nemlendirici Yüz Kremi",
+      "category": "Kozmetik",
+      "price": 549.90,
+      "stock": 75,
+      "rating": 4.1,
+      "image": "assets/images/nemlendirici-krem.png",
+      "description": "Hyaluronik asit içeriğiyle cildi 24 saat boyunca nemli tutar. Parfüm içermez, hassas ciltler için uygundur.",
+      "specs": {
+        "Hacim": "50 ml",
+        "Cilt tipi": "Tüm ciltler",
+        "İçerik": "Hyaluronik asit"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Odunsu Parfüm 50ml",
+      "category": "Kozmetik",
+      "price": 1850.00,
+      "stock": 15,
+      "rating": 4.6,
+      "image": "assets/images/odunsu-parfum.png",
+      "description": "Sedir ve vetiver notalarının bergamotla dengelendiği, akşam kullanımına uygun kalıcı bir koku.",
+      "specs": {
+        "Hacim": "50 ml",
+        "Aile": "Odunsu / baharatlı",
+        "Kalıcılık": "8-10 saat"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Filtre Kahve Makinesi",
+      "category": "Ev ve Yaşam",
+      "price": 2999.00,
+      "stock": 10,
+      "rating": 4.4,
+      "image": "assets/images/filtre-kahve-makinesi.png",
+      "description": "1.25 litrelik cam sürahisi ve sıcak tutma plakasıyla sabah rutinini kolaylaştırır. Programlanabilir zamanlayıcı içerir.",
+      "specs": {
+        "Kapasite": "1.25 L",
+        "Güç": "1000 W",
+        "Zamanlayıcı": "24 saat"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ahşap Yemek Masası",
+      "category": "Ev ve Yaşam",
+      "price": 8450.00,
+      "stock": 3,
+      "rating": 4.7,
+      "image": "assets/images/ahsap-yemek-masasi.png",
+      "description": "Masif meşeden üretilen 6 kişilik yemek masası. Doğal yağ ile korunmuş yüzeyi ahşabın dokusunu öne çıkarır.",
+      "specs": {
+        "Malzeme": "Masif meşe",
+        "Ölçü": "180 x 90 cm",
+        "Kapasite": "6 kişi"
+      }
+    }
+  ]
+}

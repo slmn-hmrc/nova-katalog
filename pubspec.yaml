@@ -1,0 +1,23 @@
+name: nova_katalog
+description: "NovaStore Mini Katalog - Flutter ile geliştirilmiş temel seviye mobil katalog uygulaması."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# Eğitim kapsamı gereği ekstra paket kullanılmamıştır; yalnızca material.dart kullanılır.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/images/
