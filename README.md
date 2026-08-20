@@ -13,6 +13,18 @@ simülasyon olarak çalışır.
 Uygulama, eğitim kapsamı gereği **yalnızca `material.dart`** kullanır; `pubspec.yaml`
 içinde hiçbir ek paket bağımlılığı yoktur.
 
+## Ekran görüntüleri
+
+| Ana Sayfa | Ürün Listesi | Ürün Detayı |
+|---|---|---|
+| <img src="screenshots/01-ana-sayfa.png" width="240"> | <img src="screenshots/02-urun-listesi.png" width="240"> | <img src="screenshots/03-urun-detayi.png" width="240"> |
+
+| Sepet | Kategori Filtresi |
+|---|---|
+| <img src="screenshots/04-sepet.png" width="240"> | <img src="screenshots/05-kategori-filtresi.png" width="240"> |
+
+Görüntüler Android emülatöründe (Pixel, 1080x1920) release derlemesinden alınmıştır.
+
 ## Ekranlar
 
 | Ekran | İçerik |
